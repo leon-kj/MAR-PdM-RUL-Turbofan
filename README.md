@@ -5,7 +5,7 @@ The focus lies on Remaining Useful Life (RUL) estimation for turbofan engines us
 
 ## Installation  
 
-To get the notebooks working, you'll need to download the dataset from NASA. You can dowload it from [here](https://phm-datasets.s3.amazonaws.com/NASA/17.+Turbofan+Engine+Degradation+Simulation+Data+Set+2.zip) (14gb, uncompressed 27gb). Afterwards put all files inside `/data`.
+To get the notebooks working, you'll need to download the dataset from NASA. You can download it from [NASA Turbofan Engine Degradation Simulation Data Set 2](https://phm-datasets.s3.amazonaws.com/NASA/17.+Turbofan+Engine+Degradation+Simulation+Data+Set+2.zip) (14gb, uncompressed 27gb). Afterwards put all files inside `/data`.
 
 ## References  
 
